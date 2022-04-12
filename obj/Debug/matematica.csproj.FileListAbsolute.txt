@@ -1,0 +1,10 @@
+C:\Users\Tomi\source\repos\matematica\matematica\obj\Debug\matematica.csprojAssemblyReference.cache
+C:\Users\Tomi\source\repos\matematica\matematica\obj\Debug\matematica.Form1.resources
+C:\Users\Tomi\source\repos\matematica\matematica\obj\Debug\matematica.Properties.Resources.resources
+C:\Users\Tomi\source\repos\matematica\matematica\obj\Debug\matematica.csproj.GenerateResource.cache
+C:\Users\Tomi\source\repos\matematica\matematica\obj\Debug\matematica.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\source\repos\matematica\matematica\bin\Debug\matematica.exe.config
+C:\Users\Tomi\source\repos\matematica\matematica\bin\Debug\matematica.exe
+C:\Users\Tomi\source\repos\matematica\matematica\bin\Debug\matematica.pdb
+C:\Users\Tomi\source\repos\matematica\matematica\obj\Debug\matematica.exe
+C:\Users\Tomi\source\repos\matematica\matematica\obj\Debug\matematica.pdb
